@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
 
         println("This is contained in my secondCommit")
+        toda is a good day
 
     }
 }
