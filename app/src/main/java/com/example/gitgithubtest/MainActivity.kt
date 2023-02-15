@@ -12,11 +12,8 @@ class MainActivity : AppCompatActivity() {
         println("This is contained in my secondCommit")
         println("Helooo maafaka")
         println("local change")
-        println("Expermental")
+        println("Change 2")
 
-        println("Youtube branch")
-        println("brabrabra")
-        println("sdfsfsasd")
 
 
     }
