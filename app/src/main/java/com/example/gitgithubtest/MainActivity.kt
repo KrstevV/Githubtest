@@ -17,6 +17,8 @@ class MainActivity : AppCompatActivity() {
         println("Change 1")
         println("Hello form your friend")
 
+        print("commit change")
+
 
     }
 }
