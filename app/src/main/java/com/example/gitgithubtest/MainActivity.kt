@@ -19,6 +19,8 @@ class MainActivity : AppCompatActivity() {
 
         print("commit change")
 
+        print("second commit")
+
 
     }
 }
