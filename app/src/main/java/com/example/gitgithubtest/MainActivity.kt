@@ -10,12 +10,12 @@ class MainActivity : AppCompatActivity() {
 
 
         println("This is contained in my secondCommit")
-        println("Helooo maafaka")
+        println("eqweqwqqea")
         println("local change")
         println("Change 2")
 
         println("Change 1")
-        println("heyj mamomjnse 6h commit")
+        println("heyj madsdsda 6h commit")
 
         println("sdfdsfasd")
 
@@ -26,6 +26,10 @@ class MainActivity : AppCompatActivity() {
         print("stash message")
 
         println("stash this")
+
+        println("gsdqeqweq")
+
+        print("eqwqqeqwgs")
 
 
 
