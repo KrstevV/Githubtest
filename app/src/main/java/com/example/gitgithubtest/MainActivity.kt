@@ -22,8 +22,7 @@ class MainActivity : AppCompatActivity() {
         print("second commit")
 
         println("its a third commit")
-        asdad gdsgsd
-
+sdfsdfs qwrq
 
 
 
