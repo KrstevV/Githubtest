@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         println("Change 2")
 
         println("Change 1")
-        println("heyj mamomjnse 5h commit")
+        println("heyj mamomjnse 6h commit")
 
         println("sdfdsfasd")
 
