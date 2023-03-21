@@ -23,13 +23,7 @@ class MainActivity : AppCompatActivity() {
 
         println("its a third commit")
 
-        print("stash message")
-
-        println("stash this")
-
-        println("gsdqeqweq")
-
-        print("eqwqqeqwgs")
+        println("abasdqweq")
 
 
 
