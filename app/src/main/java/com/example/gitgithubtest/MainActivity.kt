@@ -10,12 +10,12 @@ class MainActivity : AppCompatActivity() {
 
 
         println("This is contained in my secondCommit")
-        println("eqweqwqqea")
+        println("Helooo maafaka")
         println("local change")
         println("Change 2")
 
         println("Change 1")
-        println("heyj madsdsda 6h commit")
+        println("heyj mamomjnse 6h commit")
 
         println("sdfdsfasd")
 
@@ -24,6 +24,11 @@ class MainActivity : AppCompatActivity() {
         println("its a third commit")
 
         println("abasdqweq")
+
+        println("experimental branch")
+        println("experimental branch2")
+        println("experimentalk 2")
+        println("experimental 3")
 
 
 
